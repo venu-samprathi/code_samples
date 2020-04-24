@@ -1,0 +1,5 @@
+<launch>
+	<node pkg="mobile_bot" type="vel_pub.py" name="vel_pub" output="screen">
+	</node>
+
+</launch>
